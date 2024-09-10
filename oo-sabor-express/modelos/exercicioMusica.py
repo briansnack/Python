@@ -13,5 +13,8 @@ class Musica:
         for musica in Musica.musicas:
             print(f"{musica.nome} | {musica.artista} | {musica.duracao}")
     
-musica = Musica("Starway to heaven", "Led Zeppelin", 7.39)
+musica1 = Musica("Starway to heaven", "Led Zeppelin", 7.39)
+musica2 = Musica("Bohemian Rhapsody", "Queen", 5.55)
+musica3 = Musica("Californication", "Red Hot Chili Peppers", 5.29)
+
 Musica.listar_musicas()
