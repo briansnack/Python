@@ -22,4 +22,3 @@ print(titular2)
 print("\n")
 print(f"A conta de {titular1.titular} está ativa? {titular1.ativo}")
 print(f"A conta de {titular2.titular} está ativa? {titular2.ativo}")
-
