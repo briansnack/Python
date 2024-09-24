@@ -18,4 +18,3 @@ class Cliente:
             
 clienteH = Cliente("Marcelo", "Masculino", 1.65, 21)
 clienteM = Cliente("Maria", "Feminino", 1.70, 20)
-
